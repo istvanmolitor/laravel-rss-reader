@@ -1,5 +1,5 @@
 {
-  "name": "molitor/laravel-rss-reader",
+  "name": "istvanmolitor/laravel-rss-reader",
   "description": "Simple RSS reader package for Laravel",
   "type": "library",
   "license": "MIT",
